@@ -17,7 +17,7 @@ link - https://www.python.org/downloads/
 3. Install pyautogui
 
 ```bash
-  pip3 intall pyautogui
+  pip3 install pyautogui
 ```
 
 
