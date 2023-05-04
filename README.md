@@ -9,14 +9,7 @@ A simple spam bot created with python for chat. Make easier to send many texts, 
 
 ## Installation
 
-
-1.Clone this project in your system.
-
-```bash
-  git clone https://github.com/sami12344/Python-Spam-Bot.git
-```
-
-2. Install python from the official website of python
+1. Install python from the official website of python
 
 link - https://www.python.org/downloads/
 (If python is already installled, skip this step)
@@ -26,6 +19,26 @@ link - https://www.python.org/downloads/
 ```bash
   pip3 intall pyautogui
 ```
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/sami12344/Python-Spam-Bot.git
+```
+
+Go to the project directory
+
+```bash
+  cd Python-Spam-Bot
+```
+ Run the bot
+```bash
+  py main.py
+```
+ Put your mouse cursor in the message box
 
 ## Documentation
 
