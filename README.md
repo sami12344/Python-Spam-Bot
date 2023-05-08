@@ -1,5 +1,5 @@
 
-# Python Spam Bot
+<h1> Python Spam Bot </h1>
 ## About The Project
 The Python Spam Bot project is a script written in Python programming language that automates the task of sending spam messages to a target user or group. The project is hosted on Github, an online platform for version control and collaboration, and is available for anyone to use and contribute to.
 
