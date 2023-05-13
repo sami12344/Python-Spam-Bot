@@ -32,6 +32,8 @@ The project provides a good example of how Python can be used for automating rep
 In conclusion, the Python Spam Bot project is a useful tool for those who need to send a large number of messages quickly and efficiently, but it should be used responsibly and ethically. The project demonstrates the power and flexibility of Python programming language and serves as an example of how to interact with APIs in Python.
 	
 </p>
+
+
 ## Badges
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
