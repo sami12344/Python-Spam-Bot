@@ -1,6 +1,23 @@
+<h1 align = "center" >
+![Untitled-1](https://github.com/sami12344/Python-Spam-Bot/assets/77746252/8d61ab5a-e0cb-419a-81b6-7ebc2be0365f)
 
-<h1> Python Spam Bot </h1>
-##About The Project
+
+Python Spam Bot 
+</h1>
+<h4 align="center">Python spam bot is a simple bot for sending spam messages to a target user or group</h4>
+<p align="center">
+  <a href="#About The Project">About The Project</a> •
+  <a href="#Badges">Badges</a> •
+  <a href="#Run Locally">Run Locally</a> •
+  <a href="#How to use">How to use</a> •
+  <a href="#Documentation">Documentation</a> •
+  <a href="#Demo">Demo</a> •
+  <a href="#Feedback">Feedback</a> •
+
+	
+</p>
+
+## About The Project
 The Python Spam Bot project is a script written in Python programming language that automates the task of sending spam messages to a target user or group. The project is hosted on Github, an online platform for version control and collaboration, and is available for anyone to use and contribute to.
 
 The script allows users to input a message and a recipient's phone number, and then sends the message to that number repeatedly for a specified number of times. The project is designed to work with the Twilio API, a cloud communications platform that allows developers to send and receive SMS messages, make and receive phone calls, and perform other communication-related tasks through its API.
