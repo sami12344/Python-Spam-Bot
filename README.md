@@ -1,5 +1,5 @@
 <h1 align = "center" >
-![image](https://github.com/sami12344/Python-Spam-Bot/assets/77746252/8d61ab5a-e0cb-419a-81b6-7ebc2be0365f)
+![image](Untitled-1.png)
 Python Spam Bot 
 </h1>
 <h4 align="center">Python spam bot is a simple bot for sending spam messages to a target user or group</h4>
